@@ -1,6 +1,7 @@
-# Andromeda Javascript and Typescript Runtime
+# Andromeda
+[![Discord Server](https://img.shields.io/discord/1264947585882259599.svg?logo=discord&style=flat-square)](https://discord.gg/tgjAnX2Ny3)
 
-The Andromeda runtime uses the [Nova Engine](https://github.com/trynova/nova) behind the scenes and can be easily embedded into projects
+The simplest JavaScript and TypeScript runtime, fully written in [Rust 🦀](https://www.rust-lang.org/) and powered [Nova](https://trynova.dev/).
 
 ## Getting Started
 
@@ -8,7 +9,7 @@ To get started with Andromeda, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/tryandromeda/andromeda.git
+   git clone https://github.com/tryandromeda/andromeda
    cd andromeda
    ```
 
@@ -22,4 +23,6 @@ For detailed documentation, please refer to the `docs` folder in each repository
 
 ---
 
-Thank you for being a part of the Andromeda community! Happy coding!
+Thank you for being a part of the Andromeda community! 
+
+Happy coding!
