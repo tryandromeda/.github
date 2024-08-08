@@ -15,11 +15,8 @@ To get started with Andromeda, follow these steps:
 
 2. **Install**
    ```bash
-   cargo install --path .
+   cargo install --path ./cli
    ```
-
-For detailed documentation, please refer to the `docs` folder in each repository.(To be added)
-
 
 ---
 
