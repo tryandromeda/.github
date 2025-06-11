@@ -3,22 +3,34 @@
 
 The simplest JavaScript and TypeScript runtime, fully written in [Rust 🦀](https://www.rust-lang.org/) and powered [Nova](https://trynova.dev/).
 
-## Getting Started
 
-To get started with Andromeda, follow these steps:
+## Quick Install
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/tryandromeda/andromeda
-   cd andromeda
-   ```
+### Linux/macOS (Bash)
 
-2. **Install**
-   ```bash
-   cargo install --path ./cli
-   ```
+```bash
+curl -fsSL https://tryandromeda.dev/install.sh | bash
+```
 
----
+Or download and run manually:
+
+```bash
+wget https://tryandromeda.dev/install.sh
+chmod +x install.sh
+./install.sh
+```
+
+### Windows (PowerShell)
+
+```powershell
+iwr -Uri "https://tryandromeda.dev/install.ps1" | Invoke-Expression
+```
+
+### Windows (Command Prompt)
+
+```cmd
+curl -L -o install.bat https://tryandromeda.dev/install.bat && install.bat
+```
 
 Thank you for being a part of the Andromeda community! 
 
